@@ -1,0 +1,16 @@
+{
+    "name": "vega6-dev/amazon-s3-upload",
+    "description": "The library uploads any file to the given Bucket of Amazon s3.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Aditya Upadhyay",
+            "email": "adiwithadidas@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5",
+        "aws/aws-sdk-php": "^3.52"
+    }
+}
