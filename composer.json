@@ -12,5 +12,8 @@
     "require": {
         "php": ">=5.5",
         "aws/aws-sdk-php": "^3.52"
+    },
+    "autoload": {
+        "psr-4": {"Vega6Dev\\": "src/"}
     }
 }
